@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Secrets (won't be included)
+.env
