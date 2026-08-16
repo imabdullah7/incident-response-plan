@@ -1,0 +1,3 @@
+scapy>=2.4.5
+# Optional: pyshark can be used as an alternative to scapy if you prefer:
+# pyshark>=0.4.3
